@@ -11,6 +11,7 @@ namespace GitTestBranch
         static void Main(string[] args)
         {
             Console.WriteLine("test af git branching");
+            Console.WriteLine("på develop branch");
         }
     }
 }
